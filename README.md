@@ -1,1 +1,1 @@
-C_Rasterize made with Valerio Merli https://github.com/ValerioMerli
+C_Rasterize in SDL made with Valerio Merli https://github.com/ValerioMerli
